@@ -53,9 +53,3 @@ See [requirements.txt](requirements.txt) for all dependencies, including:
 ## License
 
 This project is for educational purposes.
-```
-
-
-DrBig-Brain: tysm
-
-GitHub Copilot: You're welcome! If you need more help with your Titanic project or anything else, just let me know. 🚢
